@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Pubs_DV", "Pubs_DV\Pubs_DV.dtproj", "{052B1DDC-6A5E-4060-AADE-2F0140AD63FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052B1DDC-6A5E-4060-AADE-2F0140AD63FF}.Development|Default.ActiveCfg = Development
+		{052B1DDC-6A5E-4060-AADE-2F0140AD63FF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486F67F2-F25A-4FC2-BB30-4C6657CD6D94}
+	EndGlobalSection
+EndGlobal
